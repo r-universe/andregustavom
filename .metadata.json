@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mlquantify",
+    "oncran": true
+  }
+]
